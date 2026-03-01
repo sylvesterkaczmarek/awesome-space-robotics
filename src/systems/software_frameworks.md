@@ -15,4 +15,5 @@
 
 ## Mission Planning
 
+- [GMAT](https://gmat.atlassian.net/wiki/spaces/GW/overview) - General Mission Analysis Tool, NASA's open source space mission design tool for trajectory optimization and mission planning. It supports analysis from low-Earth orbit to interplanetary trajectories.
 - [SPICE Toolkit](https://naif.jpl.nasa.gov/naif/toolkit.html) - NASA's observation geometry system used for space science mission planning and data analysis. It provides ephemerides, reference frames, instrument pointing, and other ancillary data required for computing observation geometry.

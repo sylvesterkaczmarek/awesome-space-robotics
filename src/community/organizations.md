@@ -5,6 +5,7 @@
 - [ASI](https://www.asi.it/en) [Italy] - Italian Space Agency
 - [CNES](https://cnes.fr/en) [France] - Centre National d'Études Spatiales
 - [CSA](https://www.asc-csa.gc.ca/eng) [Canada] - Canadian Space Agency
+- [DLR](https://www.dlr.de/en/rm) [Germany] - German Aerospace Center, Institute of Robotics and Mechatronics
 - [ESA](https://www.esa.int) [Europe] - European Space Agency
 - [JAXA](https://global.jaxa.jp) [Japan] - Japan Aerospace Exploration Agency
 - [NASA](https://www.nasa.gov) [USA] - National Aeronautics and Space Administration

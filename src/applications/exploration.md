@@ -19,6 +19,7 @@
 
 ## Small Bodies
 
+- [Hayabusa2](https://www.hayabusa2.jaxa.jp/en) - JAXA's asteroid sample-return mission to Ryugu. It deployed multiple small rovers (MINERVA-II) and the MASCOT lander, collected subsurface samples via a kinetic impactor, and returned them to Earth in 2020.
 - [MMX](https://www.mmx.jaxa.jp/en) - Martian Moons eXploration, JAXA's mission to return samples from Mars's moon Phobos. It will deploy the IDEFIX rover to survey the surface and collect samples, marking the first sample return from the Martian system.
 - [Rosetta](https://www.esa.int/Science_Exploration/Space_Science/Rosetta) - ESA's Rosetta spacecraft orbited comet 67P/Churyumov-Gerasimenko and deployed the Philae lander in November 2014, achieving the first-ever landing on a comet. Philae collected surface data despite landing in a shadowed area.
 - [Tianwen-2](https://en.wikipedia.org/wiki/Tianwen-2) - CNSA mission launched in 2025 to collect samples from near-Earth asteroid Kamoʻoalewa and return them to Earth. It combines asteroid sample collection with a subsequent flyby of a main-belt comet.

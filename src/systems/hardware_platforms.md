@@ -55,4 +55,5 @@
 
 ### Experimental
 
+- [Rollin' Justin](https://www.dlr.de/en/rm/research/robotic-systems/humanoids/rollin-justin) - Mobile humanoid robot developed by DLR with two torque-controlled arms and dexterous hands mounted on a wheeled platform. It serves as a testbed for autonomous and teleoperated space robotics research, including Earth-to-space teleoperation experiments.
 - [Valkyrie (R5)](https://www.nasa.gov/technology/r5) - NASA's bipedal humanoid robot designed for disaster response and space exploration. Standing 1.8 m tall, Valkyrie is used as a research platform for developing dexterous manipulation and locomotion capabilities for future planetary surface operations.

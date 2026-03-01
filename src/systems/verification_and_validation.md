@@ -23,3 +23,4 @@
 ## Runtime Verification
 
 - [Copilot](https://github.com/Copilot-Language/copilot) - NASA's runtime verification framework that generates constant-time, constant-memory C99 monitors from high-level Haskell specifications. It integrates with cFS, F Prime, and ROS 2 for monitoring safety properties of hard real-time aerospace systems.
+  - [OGMA](https://github.com/nasa/ogma) - NASA tool for generating safe runtime monitors for flight and robotic applications. It extends Copilot to produce hard real-time C99 verification code, supporting runtime monitoring for cFS, ROS 2, and F' spacecraft software.

@@ -38,6 +38,7 @@
 
 - [Canadarm2](https://www.asc-csa.gc.ca/eng/iss/canadarm2/about.asp) - Robotic arm on the ISS built by MDA for the Canadian Space Agency. The 17-metre arm is used for station maintenance, moving supplies, and supporting spacewalks. It can move end-over-end to reach many parts of the ISS.
 - [ERA](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/European_Robotic_Arm) - European Robotic Arm installed on the Russian segment of the ISS. The 11.3-metre arm can move from one base point to another around the station's exterior for maintenance and payload handling tasks.
+- [JEM-RMS](https://iss.jaxa.jp/en/kibo/about/kibo/rms) - Japanese Experiment Module Remote Manipulator System on the ISS Kibo module. It consists of a main arm and a small fine arm for handling experiments and payloads on the external platform.
 
 ### Commercial
 

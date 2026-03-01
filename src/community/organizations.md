@@ -14,6 +14,7 @@
 - [Space Robotics Group (SRG)](https://www.srg.mech.keio.ac.jp/en) [Japan] - Keio University
 - [Space Robotics Lab (SRL)](https://astro.mech.tohoku.ac.jp/e/index.html) [Japan] - Tohoku University
 - [Space Robotics Research Group (SpaceR)](https://www.spacer.lu) [Luxembourg] - University of Luxembourg
+- [The Laboratory for Autonomous Systems in Exploration and Robotics (LASER)](https://usclaser.github.io) [USA] - University of Southern California
 
 ## Corporate
 

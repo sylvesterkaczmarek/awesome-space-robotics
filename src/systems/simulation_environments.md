@@ -13,6 +13,7 @@
 
 ## Scene Generation
 
+- [PANGU](https://pangu.software) - Planet and Asteroid Natural Scene Generation Utility developed by the University of Dundee for ESA. It generates synthetic images of planetary surfaces for testing and validating vision-based navigation algorithms for landing and surface exploration.
 
 ## Spacecraft Dynamics
 

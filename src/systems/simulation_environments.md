@@ -8,6 +8,7 @@
 
 ## Space Robotics
 
+- [DARTS](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/the-darts-simulation-laboratory) - Dynamics Algorithms for Real-Time Simulation developed by JPL. It provides high-fidelity multibody dynamics simulation for space robotic systems, including articulated mechanisms, contact dynamics, and flexible structures.
 
 ## Scene Generation
 

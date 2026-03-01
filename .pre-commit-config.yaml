@@ -3,7 +3,7 @@
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
         args: ["--maxkb=1024"]
@@ -24,15 +24,36 @@ repos:
       - id: trailing-whitespace
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.3.0
+    rev: v2.4.1
     hooks:
       - id: codespell
-        args: ["--ignore-words-list=word1,word2"]
+        args: ["--ignore-words-list=kimera"]
 
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.17
+    rev: 1.0.0
     hooks:
       - id: mdformat
-        exclude: '^\.github/(ISSUE_TEMPLATE/|PULL_REQUEST_TEMPLATE)'
+        exclude: '^(\.github/(ISSUE_TEMPLATE/|PULL_REQUEST_TEMPLATE)|README\.md)'
         additional_dependencies:
           - mdformat-gfm
+
+  - repo: local
+    hooks:
+      - id: sort-entries
+        name: sort-entries
+        entry: python3 scripts/sort_entries.py
+        language: python
+        pass_filenames: false
+        files: '(^src/.*\.md$|^scripts/sort_entries\.py$)'
+      - id: generate-readme
+        name: generate-readme
+        entry: python3 scripts/generate_readme.py
+        language: python
+        pass_filenames: false
+        files: '(^src/.*\.md$|^scripts/generate_readme\.py$)'
+      - id: check-urls
+        name: check-urls
+        entry: python3 scripts/check_urls.py
+        language: python
+        pass_filenames: false
+        files: '(^src/.*\.md$|^scripts/check_urls\.py$)'

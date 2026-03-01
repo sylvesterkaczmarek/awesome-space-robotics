@@ -2,6 +2,7 @@
 
 ## General Purpose
 
+- [Gazebo](https://gazebosim.org) - Open source robotics simulator that provides accurate physics simulation, sensor models, and 3D visualization. It is widely used with ROS for developing and testing robotic systems. NASA's Astrobee software stack uses Gazebo for simulation.
 
 ## Space Robotics
 

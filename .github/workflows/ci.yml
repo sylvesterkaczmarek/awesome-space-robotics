@@ -19,9 +19,9 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  MDBOOK_VERSION: "latest"
-  MDBOOK_PANDOC_VERSION: "v0.7.0"
-  PANDOC_VERSION: "3.2"
+  MDBOOK_VERSION: "0.5.2"
+  MDBOOK_PANDOC_VERSION: "v0.11.0"
+  PANDOC_VERSION: "3.6.3"
 
 jobs:
   build:

@@ -15,3 +15,4 @@
 
 ## Small Bodies
 
+- [Rosetta](https://www.esa.int/Science_Exploration/Space_Science/Rosetta) - ESA's Rosetta spacecraft orbited comet 67P/Churyumov-Gerasimenko and deployed the Philae lander in November 2014, achieving the first-ever landing on a comet. Philae collected surface data despite landing in a shadowed area.

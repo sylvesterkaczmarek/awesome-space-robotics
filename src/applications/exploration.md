@@ -14,6 +14,7 @@
 ## Mars
 
 - [ExoMars](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars) - ESA's mission to search for signs of past life on Mars. Its Rosalind Franklin rover is designed to drill up to 2 metres below the Martian surface and carry analytical instruments to study subsurface samples for biosignatures. It is planned for launch in 2028.
+- [Mars Pathfinder](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first rover mission to Mars, which landed in 1997. Its Sojourner rover, a 10.6 kg microrobot, demonstrated the feasibility of low-cost rover operations on Mars and conducted soil and rock analyses over 83 sols.
 - [Mars Science Laboratory](https://mars.nasa.gov/msl) - NASA mission that landed the Curiosity rover in Gale Crater in 2012. Curiosity carries a suite of instruments including a laser spectrometer and a drill, and has been characterizing Mars' climate, geology, and habitability potential.
 
 ## Saturn

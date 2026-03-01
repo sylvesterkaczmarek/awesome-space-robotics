@@ -20,3 +20,4 @@
 
 - [GITAI](https://gitai.tech) [Japan/USA] - Space robotics and labor automation
 - [Redwire Space](https://redwirespace.com) [USA] - In-space manufacturing and robotics
+- [Starfish Space](https://www.starfishspace.com) [USA] - Satellite servicing and space sustainability

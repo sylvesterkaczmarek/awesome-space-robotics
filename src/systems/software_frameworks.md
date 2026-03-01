@@ -14,3 +14,4 @@
 
 ## Mission Planning
 
+- [SPICE Toolkit](https://naif.jpl.nasa.gov/naif/toolkit.html) - NASA's observation geometry system used for space science mission planning and data analysis. It provides ephemerides, reference frames, instrument pointing, and other ancillary data required for computing observation geometry.

@@ -9,6 +9,7 @@
 ## Space Robotics
 
 - [DARTS](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/the-darts-simulation-laboratory) - Dynamics Algorithms for Real-Time Simulation developed by JPL. It provides high-fidelity multibody dynamics simulation for space robotic systems, including articulated mechanisms, contact dynamics, and flexible structures.
+- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
 
 ## Scene Generation
 

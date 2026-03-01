@@ -2,6 +2,7 @@
 
 ## Assets
 
+- [ESA Planetary Science Archive (PSA)](https://psa.esa.int/psa/#/pages/home) - ESA's central repository for data from all planetary science missions. It provides calibrated data products from missions including Rosetta, Mars Express, and BepiColombo.
 - [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Collection of copyright-free 3D models, textures, and images from NASA. It includes models of spacecraft, planets, rovers, and other assets suitable for visualization and simulation.
 
 ## Imagery & Terrain

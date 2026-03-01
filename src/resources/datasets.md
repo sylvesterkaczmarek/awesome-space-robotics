@@ -9,4 +9,5 @@
 
 ## Spacecraft Pose & Proximity
 
+- [SPARK](https://cvi2.uni.lu/spark-spades) - SPAcecraft Recognition leveraging Knowledge dataset from the University of Luxembourg. It provides synthetic and real images of spacecraft with multiple annotation types for training spacecraft detection and pose estimation models.
 - [SPEED+](https://zenodo.org/records/6327547) - Spacecraft Pose Estimation Dataset, providing synthetic and real images of satellites with ground truth 6-DOF pose labels. It is used for benchmarking spacecraft pose estimation algorithms for proximity operations.

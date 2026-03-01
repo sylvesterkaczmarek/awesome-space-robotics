@@ -5,6 +5,7 @@
 - [Blue Ghost](https://fireflyspace.com/blue-ghost) - Firefly Aerospace's lunar lander selected under NASA's CLPS program. It carries 10 science and technology payloads to Mare Crisium to study the lunar regolith, magnetic fields, and geophysical properties.
 - [Lunokhod Program](https://en.wikipedia.org/wiki/Lunokhod_programme) - Soviet robotic lunar rover program that deployed the first remote-controlled rovers on another world. Lunokhod 1 (1970) and Lunokhod 2 (1973) traversed the lunar surface collecting soil data and imagery, pioneering planetary surface robotics.
 - [LUPEX](https://global.jaxa.jp/activity/pr/jaxas/no092/02.html) - Lunar Polar Exploration mission jointly developed by JAXA and ISRO. It aims to explore the lunar south pole with a rover equipped with a drill and instruments to investigate the presence and distribution of water ice.
+- [Nova-C (Odysseus)](https://www.intuitivemachines.com/im-1) - Intuitive Machines' IM-1 lunar lander that became the first commercial spacecraft to soft-land on the Moon in February 2024. It landed near the Malapert A crater at the lunar south pole, carrying six NASA payloads.
 
 ## Mars
 

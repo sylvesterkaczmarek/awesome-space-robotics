@@ -39,6 +39,7 @@
 ### Commercial
 
 - [Canadarm3](https://www.asc-csa.gc.ca/eng/canadarm3/about.asp) - Next-generation robotic system being developed by MDA for the Lunar Gateway. It consists of a large and a small dexterous arm with AI-based autonomy, designed to maintain and repair the Gateway station with minimal crew intervention.
+- [GITAI Inchworm Robot](https://gitai.tech/inchworm-robot) - Robotic arm developed by GITAI for in-orbit and lunar surface operations. It uses an inchworm locomotion concept to move along spacecraft structures and perform assembly, inspection, and maintenance tasks.
 
 ## Humanoids
 

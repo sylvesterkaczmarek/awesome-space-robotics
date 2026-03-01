@@ -9,3 +9,4 @@
 
 ## Spacecraft Pose & Proximity
 
+- [SPEED+](https://zenodo.org/records/6327547) - Spacecraft Pose Estimation Dataset, providing synthetic and real images of satellites with ground truth 6-DOF pose labels. It is used for benchmarking spacecraft pose estimation algorithms for proximity operations.

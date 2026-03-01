@@ -7,6 +7,7 @@
 
 ## Flight Software
 
+- [core Flight System (cFS)](https://cfs.gsfc.nasa.gov) - NASA's platform-independent and mission-independent flight software framework. It provides a reusable software architecture for spacecraft with a layered design that separates the operating system, platform, and application layers.
 - [F´ (F-Prime)](https://fprime.jpl.nasa.gov) - Component-driven framework for spaceflight applications and embedded systems with limited resources. It has been successfully deployed on several space missions, including Mars Helicopter Ingenuity.
 
 ## Ground Systems

@@ -19,6 +19,7 @@
 - [Mars Exploration Rovers](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity) - NASA's twin-rover mission that landed Spirit and Opportunity on Mars in 2004 to search for evidence of past water activity. Spirit operated until 2010 and Opportunity until 2018, far exceeding their 90-day design life and fundamentally advancing Mars geology.
 - [Mars Pathfinder](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first rover mission to Mars, which landed in 1997. Its Sojourner rover, a 10.6 kg microrobot, demonstrated the feasibility of low-cost rover operations on Mars and conducted soil and rock analyses over 83 sols.
 - [Mars Science Laboratory](https://mars.nasa.gov/msl) - NASA mission that landed the Curiosity rover in Gale Crater in 2012. Curiosity carries a suite of instruments including a laser spectrometer and a drill, and has been characterizing Mars' climate, geology, and habitability potential.
+- [Tianwen-1](https://en.wikipedia.org/wiki/Tianwen-1) - China's first Mars mission, which landed the Zhurong rover in Utopia Planitia in 2021. The solar-powered rover conducted geological surveys and subsurface radar exploration of the Martian surface.
 
 ## Saturn
 

@@ -4,6 +4,7 @@
 
 - [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert) [Chile] - One of the driest places on Earth, used as a Mars analogue for testing rover autonomy and astrobiology experiments due to its extreme aridity, UV radiation, and mineral composition similar to Mars.
 - [Devon Island](https://en.wikipedia.org/wiki/Devon_Island) [Canada] - The largest uninhabited island on Earth, hosting the Haughton-Mars Project. The Haughton impact crater provides Mars-like terrain used for testing rover operations and space suits.
+- [Iceland](https://en.wikipedia.org/wiki/Iceland) - Volcanic island used extensively by NASA and ESA as a planetary analogue. Its glacial landscapes, lava fields, and volcanic terrain simulate lunar and Martian conditions for testing rover operations and sample collection techniques.
 - [Lanzarote](https://en.wikipedia.org/wiki/Lanzarote) [Spain] - Volcanic island in the Canary Islands used by ESA as an analogue site for lunar and planetary exploration testing. Its volcanic landscapes include lava tubes and basaltic terrain similar to lunar geology.
 - [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna) [Italy] - Active volcano with fresh volcanic soils and lava flows, serving as an excellent analogue for the Moon and Mars. ESA and DLR have tested several rovers and robotic operations at this site.
 

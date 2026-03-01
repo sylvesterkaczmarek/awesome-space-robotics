@@ -13,6 +13,7 @@
 
 ## Spacecraft Dynamics
 
+- [Basilisk](https://avslab.github.io/basilisk) - Astrodynamics simulation framework developed at the University of Colorado Boulder. It supports modular spacecraft simulation with customizable flight software, dynamics, and environment models for autonomous mission scenarios.
 
 ## Simulation Frameworks
 

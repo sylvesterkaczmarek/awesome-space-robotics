@@ -22,3 +22,4 @@
 
 ## Simulation Frameworks
 
+- [Trick](https://github.com/nasa/trick) - NASA's simulation development framework that provides common simulation capabilities for rapid prototyping of space vehicle simulations. It handles infrastructure such as job scheduling, data recording, and checkpoint/restart, enabling engineers to focus on domain-specific models.

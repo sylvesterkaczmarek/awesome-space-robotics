@@ -7,6 +7,7 @@
 ## Imagery & Terrain
 
 - [HiRISE](https://www.uahirise.org) - High Resolution Imaging Science Experiment aboard NASA's Mars Reconnaissance Orbiter. It provides the most detailed images of the Martian surface at resolutions up to 25 cm/pixel, used for landing site selection and terrain analysis.
+- [Lunar Reconnaissance Orbiter Camera (LROC)](https://www.lroc.asu.edu) - Camera system aboard NASA's LRO that has imaged the lunar surface at resolutions up to 50 cm/pixel. The data is used for mapping, landing site selection, and generating terrain models for rover simulations.
 - [Planetary Data System (PDS)](https://pds.nasa.gov) - NASA's archive of data from planetary missions. It provides standardized, peer-reviewed datasets including imagery, spectral data, and topographic maps from missions across the solar system.
 
 ## Spacecraft Pose & Proximity

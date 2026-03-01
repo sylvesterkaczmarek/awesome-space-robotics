@@ -6,6 +6,7 @@
 
 ## Mars
 
+- [Mars Science Laboratory](https://mars.nasa.gov/msl) - NASA mission that landed the Curiosity rover in Gale Crater in 2012. Curiosity carries a suite of instruments including a laser spectrometer and a drill, and has been characterizing Mars' climate, geology, and habitability potential.
 
 ## Saturn
 

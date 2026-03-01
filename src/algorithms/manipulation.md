@@ -7,3 +7,4 @@
 
 ## Dynamics & Control
 
+- [Pinocchio](https://github.com/stack-of-tasks/pinocchio) - Fast and flexible C++ library for rigid body dynamics algorithms. It provides efficient implementations of forward/inverse kinematics, dynamics, and their analytical derivatives for articulated robotic systems.

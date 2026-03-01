@@ -6,6 +6,7 @@
 
 ## Imagery & Terrain
 
+- [Planetary Data System (PDS)](https://pds.nasa.gov) - NASA's archive of data from planetary missions. It provides standardized, peer-reviewed datasets including imagery, spectral data, and topographic maps from missions across the solar system.
 
 ## Spacecraft Pose & Proximity
 

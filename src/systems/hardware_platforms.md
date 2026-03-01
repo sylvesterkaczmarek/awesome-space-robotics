@@ -9,6 +9,7 @@
 
 ### Deployed
 
+- [Perseverance](https://mars.nasa.gov/mars2020) - NASA's Mars rover that landed in Jezero Crater in 2021. It carries seven science instruments, a robotic arm with a drill for coring rock samples, and deployed the Ingenuity helicopter for the first powered flight on another planet.
 - [Sojourner](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
 
 ### Experimental

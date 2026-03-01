@@ -19,3 +19,4 @@
 
 ## Runtime Verification
 
+- [Copilot](https://github.com/Copilot-Language/copilot) - NASA's runtime verification framework that generates constant-time, constant-memory C99 monitors from high-level Haskell specifications. It integrates with cFS, F Prime, and ROS 2 for monitoring safety properties of hard real-time aerospace systems.

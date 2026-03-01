@@ -30,6 +30,7 @@
 
 - [Astrobotic](https://www.astrobotic.com) [USA] - Lunar logistics and delivery services
 - [Astroscale](https://astroscale.com) [Japan/UK] - On-orbit servicing and debris removal
+- [ClearSpace](https://clearspace.today) [Switzerland] - Space debris removal and in-orbit servicing
 - [GITAI](https://gitai.tech) [Japan/USA] - Space robotics and labor automation
 - [Intuitive Machines](https://www.intuitivemachines.com) [USA] - Lunar landers and space infrastructure
 - [ispace](https://ispace-inc.com) [Japan] - Lunar exploration and resource development

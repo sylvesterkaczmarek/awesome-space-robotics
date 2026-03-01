@@ -58,14 +58,9 @@ jobs:
           echo "$PWD/pandoc-${{ env.PANDOC_VERSION }}/bin" >> $GITHUB_PATH
           export PATH="$PWD/pandoc-${{ env.PANDOC_VERSION }}/bin:$PATH"
       - name: Setup TeX Live
-        uses: teatimeguest/setup-texlive-action@v3
+        uses: zauguin/install-texlive@v4
         with:
-          packages: |
-            etoolbox
-            fourier
-            scheme-basic
-            utopia
-            xcolor
+          packages: etoolbox fourier scheme-basic utopia xcolor
       - name: Configure PDF output
         run: |
           cat >> book.toml << EOF

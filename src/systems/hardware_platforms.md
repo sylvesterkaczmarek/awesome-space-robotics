@@ -17,6 +17,7 @@
 
 ### Deployed
 
+- [Ingenuity](https://www.jpl.nasa.gov/missions/ingenuity) - NASA's 1.8 kg coaxial-rotor helicopter that achieved the first powered, controlled flight on another planet. Solar-powered with autonomous flight capability, it completed 72 flights over nearly three years on Mars, serving as a technology demonstrator and aerial scout for the Perseverance rover.
 
 ### Experimental
 

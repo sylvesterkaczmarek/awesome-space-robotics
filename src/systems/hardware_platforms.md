@@ -15,6 +15,7 @@
 
 ### Experimental
 
+- [RASSOR](https://technology.nasa.gov/patent/KSC-TOPS-7) - Regolith Advanced Surface Systems Operations Robot developed by NASA Kennedy Space Center. A compact excavation robot designed to mine regolith on the Moon and Mars using counter-rotating bucket drums.
 
 ## Aerial Vehicles
 

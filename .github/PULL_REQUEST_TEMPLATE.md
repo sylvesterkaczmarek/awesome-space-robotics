@@ -8,7 +8,7 @@
   - [ ] I formatted the PR title as `[New Entry] Entry Name`
   - [ ] I included a sentence in the description above explaining why I believe the entry is awesome
   - [ ] I added my name or GitHub alias to the alphabetical list of [contributors](https://github.com/AndrejOrsula/awesome-space-robotics/blob/main/src/contributors.md)
-  - [ ] I reviewed at least two open `[New Entry]` PRs[^1]
+  - [ ] I reviewed an open `[New Entry]` PR[^1] (if any are open)
 
 - The entry is unique
   - [ ] The entry is not already listed ([search link](https://AndrejOrsula.github.io/awesome-space-robotics/?search=entry))

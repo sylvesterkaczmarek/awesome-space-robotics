@@ -18,6 +18,7 @@
 
 ## Spacecraft Dynamics
 
+- [42](https://github.com/ericstoneking/42) - NASA Goddard's general-purpose spacecraft simulation environment. It provides high-fidelity attitude and orbit dynamics, sensor and actuator models, and visualization for multi-body spacecraft systems.
 - [Basilisk](https://avslab.github.io/basilisk) - Astrodynamics simulation framework developed at the University of Colorado Boulder. It supports modular spacecraft simulation with customizable flight software, dynamics, and environment models for autonomous mission scenarios.
 
 ## Simulation Frameworks

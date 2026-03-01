@@ -10,6 +10,7 @@
 ### Deployed
 
 - [Mars Exploration Rovers (Spirit & Opportunity)](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity) - NASA's twin solar-powered rovers with rocker-bogie suspension and a five-degree-of-freedom instrument arm. Designed for 90 sols, Spirit operated until 2010 and Opportunity until 2018, validating long-duration autonomous rover operations on Mars.
+- [MASCOT](https://www.dlr.de/en/rm/research/robotic-systems/components/mascot) - Mobile Asteroid Surface Scout developed by DLR and CNES. The shoebox-sized lander was deployed from JAXA's Hayabusa2 spacecraft to the asteroid Ryugu in 2018, where it hopped across the surface to perform in situ measurements.
 - [Perseverance](https://mars.nasa.gov/mars2020) - NASA's Mars rover that landed in Jezero Crater in 2021. It carries seven science instruments, a robotic arm with a drill for coring rock samples, and deployed the Ingenuity helicopter for the first powered flight on another planet.
 - [Sojourner](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
 

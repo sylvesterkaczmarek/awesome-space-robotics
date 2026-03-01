@@ -37,6 +37,7 @@
 
 ### Commercial
 
+- [Canadarm3](https://www.asc-csa.gc.ca/eng/canadarm3/about.asp) - Next-generation robotic system being developed by MDA for the Lunar Gateway. It consists of a large and a small dexterous arm with AI-based autonomy, designed to maintain and repair the Gateway station with minimal crew intervention.
 
 ## Humanoids
 

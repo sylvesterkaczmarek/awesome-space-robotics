@@ -9,6 +9,7 @@
 
 ### Deployed
 
+- [Sojourner](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
 
 ### Experimental
 

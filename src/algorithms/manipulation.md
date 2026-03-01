@@ -7,4 +7,5 @@
 
 ## Dynamics & Control
 
+- [Drake](https://drake.mit.edu) - Model-based design and verification toolbox for robotics developed at MIT and now maintained by Toyota Research Institute. It provides multibody dynamics, mathematical optimization, and control algorithms for planning and control of robotic systems.
 - [Pinocchio](https://github.com/stack-of-tasks/pinocchio) - Fast and flexible C++ library for rigid body dynamics algorithms. It provides efficient implementations of forward/inverse kinematics, dynamics, and their analytical derivatives for articulated robotic systems.

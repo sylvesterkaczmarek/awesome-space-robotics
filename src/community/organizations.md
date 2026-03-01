@@ -29,6 +29,7 @@
 - [GITAI](https://gitai.tech) [Japan/USA] - Space robotics and labor automation
 - [Intuitive Machines](https://www.intuitivemachines.com) [USA] - Lunar landers and space infrastructure
 - [ispace](https://ispace-inc.com) [Japan] - Lunar exploration and resource development
+- [Motiv Space Systems](https://motivss.com) [USA] - Robotic arms and actuators for space
 - [Northrop Grumman](https://www.northropgrumman.com/space) [USA] - Satellite servicing and space logistics
 - [Redwire Space](https://redwirespace.com) [USA] - In-space manufacturing and robotics
 - [Starfish Space](https://www.starfishspace.com) [USA] - Satellite servicing and space sustainability

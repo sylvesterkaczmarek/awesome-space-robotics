@@ -16,6 +16,7 @@
 
 ### Experimental
 
+- [CADRE](https://www.jpl.nasa.gov/missions/cadre) - Cooperative Autonomous Distributed Robotic Exploration, a NASA JPL project deploying a team of shoebox-sized rovers to the Moon. They will autonomously coordinate to map the lunar surface using multi-robot exploration strategies without human intervention.
 - [LEMUR](https://www.jpl.nasa.gov/robotics-at-jpl/freeclimber-lemur-3) - Limbed Excursion Mechanical Utility Robot developed by JPL. A four-limbed climbing robot with hundreds of micro-spine grippers that can scale rock walls and inspect spacecraft exteriors in microgravity.
 - [RASSOR](https://technology.nasa.gov/patent/KSC-TOPS-7) - Regolith Advanced Surface Systems Operations Robot developed by NASA Kennedy Space Center. A compact excavation robot designed to mine regolith on the Moon and Mars using counter-rotating bucket drums.
 - [RoboSimian](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/robosimian) - Four-limbed robot developed by JPL with seven degrees of freedom per limb. Originally built for the DARPA Robotics Challenge, it now serves as a wheel-on-limb rover research platform for planetary exploration, with mobility tested on ocean-world analogue terrain.

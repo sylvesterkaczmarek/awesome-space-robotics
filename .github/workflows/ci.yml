@@ -60,7 +60,7 @@ jobs:
       - name: Setup TeX Live
         uses: zauguin/install-texlive@v4
         with:
-          packages: etoolbox fourier scheme-basic utopia xcolor
+          packages: etoolbox fourier newunicodechar scheme-basic utopia xcolor
       - name: Configure PDF output
         run: |
           cat >> book.toml << EOF
@@ -71,6 +71,7 @@ jobs:
           output-file = "awesome-space-robotics.pdf"
           table-of-contents = false
           number-sections = false
+          filters = ["scripts/pandoc_escape_latex.lua"]
 
           [output.pandoc.profile.pdf.variables]
           title = ""
@@ -85,6 +86,7 @@ jobs:
           fontfamily = "fourier"
           fontsize = "11pt"
           colorlinks = true
+          header-includes = ['\\usepackage{newunicodechar}\\newunicodechar{ʻ}{\\textquoteleft}']
           EOF
       - name: Build
         run: mdbook build

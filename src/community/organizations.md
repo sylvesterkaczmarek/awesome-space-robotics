@@ -32,6 +32,7 @@
 - [Astroscale](https://astroscale.com) [Japan/UK] - On-orbit servicing and debris removal
 - [ClearSpace](https://clearspace.today) [Switzerland] - Space debris removal and in-orbit servicing
 - [GITAI](https://gitai.tech) [Japan/USA] - Space robotics and labor automation
+- [Honeybee Robotics (Blue Origin)](https://www.blueorigin.com/exploration-systems) [USA] - Spacecraft mechanisms and planetary drilling systems, now a subsidiary of Blue Origin
 - [Intuitive Machines](https://www.intuitivemachines.com) [USA] - Lunar landers and space infrastructure
 - [ispace](https://ispace-inc.com) [Japan] - Lunar exploration and resource development
 - [MDA](https://mda.space) [Canada] - Canadarm, robotics, and satellite systems

@@ -9,6 +9,7 @@
 - [DLR](https://www.dlr.de/en/rm) [Germany] - German Aerospace Center, Institute of Robotics and Mechatronics
 - [ESA](https://www.esa.int) [Europe] - European Space Agency
 - [JAXA](https://global.jaxa.jp) [Japan] - Japan Aerospace Exploration Agency
+- [KASA](https://www.kasa.go.kr/eng/index.do) [South Korea] - Korea AeroSpace Administration
 - [NASA](https://www.nasa.gov) [USA] - National Aeronautics and Space Administration
   - [GSFC](https://www.nasa.gov/goddard) [USA] - NASA Goddard Space Flight Center
   - [JPL](https://www.jpl.nasa.gov) [USA] - NASA Jet Propulsion Laboratory

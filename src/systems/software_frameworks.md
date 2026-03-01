@@ -12,6 +12,7 @@
 
 ## Ground Systems
 
+- [Yamcs](https://yamcs.org) - Open source mission control framework for command and control of spacecraft, satellites, payloads, and ground equipment. It features built-in support for CCSDS, CFDP, and XTCE standards, and can serve as a backend for OpenMCT.
 
 ## Mission Planning
 

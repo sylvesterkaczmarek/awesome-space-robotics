@@ -44,3 +44,4 @@
 
 ### Experimental
 
+- [Valkyrie (R5)](https://www.nasa.gov/technology/r5) - NASA's bipedal humanoid robot designed for disaster response and space exploration. Standing 1.8 m tall, Valkyrie is used as a research platform for developing dexterous manipulation and locomotion capabilities for future planetary surface operations.

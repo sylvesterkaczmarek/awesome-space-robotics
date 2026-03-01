@@ -2,6 +2,7 @@
 
 ## Terrestrial Analogue Sites
 
+- [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert) [Chile] - One of the driest places on Earth, used as a Mars analogue for testing rover autonomy and astrobiology experiments due to its extreme aridity, UV radiation, and mineral composition similar to Mars.
 - [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna) [Italy] - Active volcano with fresh volcanic soils and lava flows, serving as an excellent analogue for the Moon and Mars. ESA and DLR have tested several rovers and robotic operations at this site.
 
 ## Laboratory Facilities

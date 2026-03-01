@@ -2,6 +2,7 @@
 
 ## Lunar
 
+- [Astrobotic Peregrine](https://www.astrobotic.com/lunar-delivery/landers/peregrine-lander) - First mission under NASA's Commercial Lunar Payload Services program, launched in January 2024. The lander carried multiple science payloads bound for the Moon but experienced a propellant leak that prevented lunar landing.
 - [Blue Ghost](https://fireflyspace.com/blue-ghost) - Firefly Aerospace's lunar lander selected under NASA's CLPS program. It carries 10 science and technology payloads to Mare Crisium to study the lunar regolith, magnetic fields, and geophysical properties.
 - [Chandrayaan-3](https://www.isro.gov.in/Chandrayaan3.html) - ISRO's lunar mission that successfully soft-landed the Vikram lander and Pragyan rover near the lunar south pole in 2023. Pragyan is a six-wheeled rover that conducted in situ chemical analysis of the lunar surface.
 - [Chang'e Program](https://en.wikipedia.org/wiki/Chinese_Lunar_Exploration_Program) - China's lunar exploration program operated by CNSA. Chang'e 4 achieved the first soft landing on the far side of the Moon in 2019 with the Yutu-2 rover; Chang'e 5 returned samples in 2020; and Chang'e 6 returned the first far-side samples in 2024.

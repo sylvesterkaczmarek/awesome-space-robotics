@@ -17,9 +17,9 @@ ______________________________________________________________________
 - [Human-Robot Interaction](algorithms/human_robot_interaction.md)
 - [Robot Learning](algorithms/robot_learning.md)
 
-# Applications
+# Missions & Applications
 
-- [Exploration](applications/exploration.md)
+- [Space Exploration](applications/exploration.md)
 - [Assembly & Servicing](applications/assembly_and_servicing.md)
 
 # Resources
@@ -27,7 +27,6 @@ ______________________________________________________________________
 - [Education](resources/education.md)
 - [Demos](resources/demos.md)
 - [Datasets](resources/datasets.md)
-- [Benchmarks](resources/benchmarks.md)
 - [Competitions](resources/competitions.md)
 
 # Community

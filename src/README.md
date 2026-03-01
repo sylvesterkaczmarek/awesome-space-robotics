@@ -2,10 +2,6 @@
 
 Welcome to **Awesome Space Robotics**, a curated list of [*awesome*](https://awesome.re) resources for **Space Robotics**!
 
-<div class="warning">
-    <strong>Disclaimer:</strong> This list is a work in progress under active development.<br>Contributions and feedback are welcome!
-</div>
-
 ## Motivation
 
 The goal of this project is to provide a community-driven collection of valuable resources for students, researchers, professionals, and enthusiasts interested in space robotics. Instead of creating an exhaustive list of all available resources, our focus is on maintaining a curated list of high-quality references that remain relevant to the field. Furthermore, we strive to organize all interdisciplinary topics into a structured and easily navigable format, featuring diverse resources in the form of academic papers, books, tutorials, software tools, datasets, and more.

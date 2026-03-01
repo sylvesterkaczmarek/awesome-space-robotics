@@ -15,6 +15,7 @@
 
 ### Experimental
 
+- [LEMUR](https://www.jpl.nasa.gov/robotics-at-jpl/freeclimber-lemur-3) - Limbed Excursion Mechanical Utility Robot developed by JPL. A four-limbed climbing robot with hundreds of micro-spine grippers that can scale rock walls and inspect spacecraft exteriors in microgravity.
 - [RASSOR](https://technology.nasa.gov/patent/KSC-TOPS-7) - Regolith Advanced Surface Systems Operations Robot developed by NASA Kennedy Space Center. A compact excavation robot designed to mine regolith on the Moon and Mars using counter-rotating bucket drums.
 
 ## Aerial Vehicles

@@ -1,6 +1,6 @@
-# <a href="https://AndrejOrsula.github.io/awesome-space-robotics"><img src="theme/favicon.svg" width="24" height="24"> Awesome Space Robotics</a>
+# Awesome Space Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources for **Space Robotics**. Contributions are welcome!
+> Robotic systems designed for space environments.
 
 <p>
 <a href="https://AndrejOrsula.github.io/awesome-space-robotics"> <img alt="HTML" src="theme/icon_html.svg" width="96" height="96"></a>
@@ -9,9 +9,6 @@ A curated list of resources for **Space Robotics**. Contributions are welcome!
 </p>
 
 ---
-
-<!-- Note: Do not edit the content below this line. It is generated from the source files in the src directory -->
-<!-- BEGIN GENERATED CONTENT -->
 
 ## Contents
 
@@ -44,65 +41,40 @@ A curated list of resources for **Space Robotics**. Contributions are welcome!
 
 #### Surface Vehicles
 
-##### Open Source
-
+- [CADRE](https://www.jpl.nasa.gov/missions/cadre) - Cooperative Autonomous Distributed Robotic Exploration, a NASA JPL project deploying a team of shoebox-sized rovers to the Moon. They will autonomously coordinate to map the lunar surface using multi-robot exploration strategies without human intervention.
+- [Curiosity](https://mars.nasa.gov/msl) - NASA's car-sized Mars rover powered by a radioisotope thermoelectric generator. It uses a rocker-bogie suspension, a 2.1-metre robotic arm with a drill and spectrometers, and autonomous navigation to traverse Gale Crater since 2012.
 - [ExoMy](https://esa-prl.github.io/ExoMy) - Open source build-it-yourself rover developed by ESA. It is inspired by the ExoMars rover and designed to be a low-cost platform for educational purposes. ExoMy features Ackermann steering and can be controlled via ROS using an onboard Raspberry Pi.
 - [JPL Open Source Rover](https://jplopensourcerover.com) - Open source build-it-yourself rover developed by JPL. It is based on the deployed Mars rovers and designed to be an affordable platform for education and research. The rover can be controlled via ROS using an onboard Raspberry Pi.
-
-##### Deployed
-
-- [Curiosity](https://mars.nasa.gov/msl) - NASA's car-sized Mars rover powered by a radioisotope thermoelectric generator. It uses a rocker-bogie suspension, a 2.1-metre robotic arm with a drill and spectrometers, and autonomous navigation to traverse Gale Crater since 2012.
+- [LEMUR](https://www.jpl.nasa.gov/robotics-at-jpl/freeclimber-lemur-3) - Limbed Excursion Mechanical Utility Robot developed by JPL. A four-limbed climbing robot with hundreds of micro-spine grippers that can scale rock walls and inspect spacecraft exteriors in microgravity.
 - [Mars Exploration Rovers (Spirit & Opportunity)](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity) - NASA's twin solar-powered rovers with rocker-bogie suspension and a five-degree-of-freedom instrument arm. Designed for 90 sols, Spirit operated until 2010 and Opportunity until 2018, validating long-duration autonomous rover operations on Mars.
 - [MASCOT](https://www.dlr.de/en/rm/research/robotic-systems/components/mascot) - Mobile Asteroid Surface Scout developed by DLR and CNES. The shoebox-sized lander was deployed from JAXA's Hayabusa2 spacecraft to the asteroid Ryugu in 2018, where it hopped across the surface to perform in situ measurements.
 - [Perseverance](https://mars.nasa.gov/mars2020) - NASA's Mars rover that landed in Jezero Crater in 2021. It carries seven science instruments, a robotic arm with a drill for coring rock samples, and deployed the Ingenuity helicopter for the first powered flight on another planet.
-- [Sojourner](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
-
-##### Experimental
-
-- [CADRE](https://www.jpl.nasa.gov/missions/cadre) - Cooperative Autonomous Distributed Robotic Exploration, a NASA JPL project deploying a team of shoebox-sized rovers to the Moon. They will autonomously coordinate to map the lunar surface using multi-robot exploration strategies without human intervention.
-- [LEMUR](https://www.jpl.nasa.gov/robotics-at-jpl/freeclimber-lemur-3) - Limbed Excursion Mechanical Utility Robot developed by JPL. A four-limbed climbing robot with hundreds of micro-spine grippers that can scale rock walls and inspect spacecraft exteriors in microgravity.
 - [RASSOR](https://technology.nasa.gov/patent/KSC-TOPS-7) - Regolith Advanced Surface Systems Operations Robot developed by NASA Kennedy Space Center. A compact excavation robot designed to mine regolith on the Moon and Mars using counter-rotating bucket drums.
 - [RoboSimian](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/robosimian) - Four-limbed robot developed by JPL with seven degrees of freedom per limb. Originally built for the DARPA Robotics Challenge, it now serves as a wheel-on-limb rover research platform for planetary exploration, with mobility tested on ocean-world analogue terrain.
+- [Sojourner](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
 
 #### Aerial Vehicles
 
-##### Deployed
-
+- [Dragonfly](https://dragonfly.jhuapl.edu) - NASA dual-quadcopter rotorcraft designed to fly on Saturn's moon Titan. Leveraging Titan's dense atmosphere and low gravity, the 450 kg lander will hop between multiple sites to study prebiotic chemistry using a mass spectrometer, gamma-ray spectrometer, and drill.
 - [Ingenuity](https://www.jpl.nasa.gov/missions/ingenuity) - NASA's 1.8 kg coaxial-rotor helicopter that achieved the first powered, controlled flight on another planet. Solar-powered with autonomous flight capability, it completed 72 flights over nearly three years on Mars, serving as a technology demonstrator and aerial scout for the Perseverance rover.
 
-##### Experimental
-
-- [Dragonfly](https://dragonfly.jhuapl.edu) - NASA dual-quadcopter rotorcraft designed to fly on Saturn's moon Titan. Leveraging Titan's dense atmosphere and low gravity, the 450 kg lander will hop between multiple sites to study prebiotic chemistry using a mass spectrometer, gamma-ray spectrometer, and drill.
-
 #### Free-Flying Robots
-
-##### Deployed
 
 - [Astrobee](https://nasa.gov/astrobee) - Free-flying robotic system developed by NASA to assist astronauts inside the ISS. Three Astrobees were launched to the ISS in 2019, each equipped with cameras, sensors, and a perching arm. The software stack is open source and built using ROS and Gazebo.
 - [Int-Ball2](https://doi.org/10.1109/MRA.2024.3505776) - Second-generation free-flying camera robot developed by JAXA for the ISS Kibo module. Building on the original Int-Ball deployed in 2017, it features improved autonomous navigation and positioning, enabling ground controllers to remotely capture images and video of crew activities and experiments without astronaut assistance.
 
 #### Robotic Manipulators
 
-##### Deployed
-
 - [Canadarm2](https://www.asc-csa.gc.ca/eng/iss/canadarm2/about.asp) - Robotic arm on the ISS built by MDA for the Canadian Space Agency. The 17-metre arm is used for station maintenance, moving supplies, and supporting spacewalks. It can move end-over-end to reach many parts of the ISS.
+- [Canadarm3](https://www.asc-csa.gc.ca/eng/canadarm3/about.asp) - Next-generation robotic system being developed by MDA for the Lunar Gateway. It consists of a large and a small dexterous arm with AI-based autonomy, designed to maintain and repair the Gateway station with minimal crew intervention.
 - [Dextre](https://www.asc-csa.gc.ca/eng/iss/dextre/about.asp) - Two-armed dexterous manipulator on the ISS that serves as a robotic handyman for delicate maintenance tasks. Built by MDA for the Canadian Space Agency, Dextre is mounted on Canadarm2 and can handle orbital replaceable units.
 - [ERA](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/European_Robotic_Arm) - European Robotic Arm installed on the Russian segment of the ISS. The 11.3-metre arm can move from one base point to another around the station's exterior for maintenance and payload handling tasks.
-- [JEM-RMS](https://iss.jaxa.jp/en/kibo/about/kibo/rms) - Japanese Experiment Module Remote Manipulator System on the ISS Kibo module. It consists of a main arm and a small fine arm for handling experiments and payloads on the external platform.
-
-##### Commercial
-
-- [Canadarm3](https://www.asc-csa.gc.ca/eng/canadarm3/about.asp) - Next-generation robotic system being developed by MDA for the Lunar Gateway. It consists of a large and a small dexterous arm with AI-based autonomy, designed to maintain and repair the Gateway station with minimal crew intervention.
 - [GITAI Inchworm Robot](https://gitai.tech/inchworm-robot) - Robotic arm developed by GITAI for in-orbit and lunar surface operations. It uses an inchworm locomotion concept to move along spacecraft structures and perform assembly, inspection, and maintenance tasks.
+- [JEM-RMS](https://iss.jaxa.jp/en/kibo/about/kibo/rms) - Japanese Experiment Module Remote Manipulator System on the ISS Kibo module. It consists of a main arm and a small fine arm for handling experiments and payloads on the external platform.
 
 #### Humanoids
 
-##### Deployed
-
 - [Robonaut 2 (R2)](https://nasa.gov/robonaut2) - Humanoid robot developed by NASA to assist astronauts onboard the ISS. R2 was launched in 2011 as the first humanoid robot in space and has since been used in various experiments on simple manipulation tasks.
-
-##### Experimental
-
 - [Rollin' Justin](https://www.dlr.de/en/rm/research/robotic-systems/humanoids/rollin-justin) - Mobile humanoid robot developed by DLR with two torque-controlled arms and dexterous hands mounted on a wheeled platform. It serves as a testbed for autonomous and teleoperated space robotics research, including Earth-to-space teleoperation experiments.
 - [Valkyrie (R5)](https://www.nasa.gov/technology/r5) - NASA's bipedal humanoid robot designed for disaster response and space exploration. Standing 1.8 m tall, Valkyrie is used as a research platform for developing dexterous manipulation and locomotion capabilities for future planetary surface operations.
 
@@ -158,29 +130,21 @@ A curated list of resources for **Space Robotics**. Contributions are welcome!
 
 #### Terrestrial Analogue Sites
 
-- [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert) [Chile] - One of the driest places on Earth, used as a Mars analogue for testing rover autonomy and astrobiology experiments due to its extreme aridity, UV radiation, and mineral composition similar to Mars.
-- [Devon Island](https://en.wikipedia.org/wiki/Devon_Island) [Canada] - The largest uninhabited island on Earth, hosting the Haughton-Mars Project. The Haughton impact crater provides Mars-like terrain used for testing rover operations and space suits.
+- [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert) | Chile - One of the driest places on Earth, used as a Mars analogue for testing rover autonomy and astrobiology experiments due to its extreme aridity, UV radiation, and mineral composition similar to Mars.
+- [Devon Island](https://en.wikipedia.org/wiki/Devon_Island) | Canada - The largest uninhabited island on Earth, hosting the Haughton-Mars Project. The Haughton impact crater provides Mars-like terrain used for testing rover operations and space suits.
 - [Iceland](https://en.wikipedia.org/wiki/Iceland) - Volcanic island used extensively by NASA and ESA as a planetary analogue. Its glacial landscapes, lava fields, and volcanic terrain simulate lunar and Martian conditions for testing rover operations and sample collection techniques.
-- [Lanzarote](https://en.wikipedia.org/wiki/Lanzarote) [Spain] - Volcanic island in the Canary Islands used by ESA as an analogue site for lunar and planetary exploration testing. Its volcanic landscapes include lava tubes and basaltic terrain similar to lunar geology.
-- [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna) [Italy] - Active volcano with fresh volcanic soils and lava flows, serving as an excellent analogue for the Moon and Mars. ESA and DLR have tested several rovers and robotic operations at this site.
+- [Lanzarote](https://en.wikipedia.org/wiki/Lanzarote) | Spain - Volcanic island in the Canary Islands used by ESA as an analogue site for lunar and planetary exploration testing. Its volcanic landscapes include lava tubes and basaltic terrain similar to lunar geology.
+- [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna) | Italy - Active volcano with fresh volcanic soils and lava flows, serving as an excellent analogue for the Moon and Mars. ESA and DLR have tested several rovers and robotic operations at this site.
 
 #### Laboratory Facilities
 
-##### Orbital
-
-- [ESA Orbital Robotics Laboratory](https://www.esa.int/Education/ESA_Academy_Experiments_programme/Orbital_Robotics_Laboratory) [Netherlands] - Testbed at ESA's ESTEC featuring Europe's largest 2D free-floating platform, a 4.8x9 m flat floor with air-bearing systems that simulate microgravity for validating satellite docking, debris removal, and in-orbit servicing technologies. It is available to university students through the ESA Academy Experiments Programme.
-- [Zero-G Lab](https://www.uni.lu/snt-en/facilities/zero-g-lab) [Luxembourg] - Facility at the University of Luxembourg designed for testing 2D and 3D free-floating robotic systems in microgravity conditions. Its dark room features a 5x3 m flat epoxy floor on which pneumatic platforms use pressurized air to emulate free-floating behaviour in a 2D plane, while wall- and ceiling-mounted articulated robotic arms on linear rails extend the workspace into 3D. The lab is equipped with adjustable illumination and a motion capture system.
-
-##### Planetary
-
-- [JPL Mars Yard](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii) [USA] - Outdoor test facility at JPL designed to emulate the Martian surface. It is used for testing rover mobility, navigation, and instrument deployment on terrain representative of Mars conditions.
-- [LUNA](https://luna-analog-facility.de/en) [Germany] - ESA-DLR LUNA analogue facility at the European Astronaut Centre in Cologne. It features a large regolith testbed for testing lunar surface operations, including rover navigation and sample collection.
-- [LunaLab](https://www.uni.lu/snt-en/facilities/lunalab) [Luxembourg] - Moon analogue facility at the University of Luxembourg. It features an indoor 11x7 m area filled with 20 t of basalt gravel to emulate the surface of the Moon. LunaLab is equipped with adjustable illumination and a motion capture system to support the development and testing of lunar rovers.
-- [Spaceport Rostock](https://testingfor.space) [Germany] - Testing facility at Rostock-Laage Airport developed in collaboration with DLR. It features a test track for lunar and space vehicles and plans for microgravity testing infrastructure, positioning it as a hub for commercial and national space research.
-
-##### Navigation
-
-- [TRON](https://www.dlr.de/en/research-and-transfer/research-infrastructure/testbed-for-robotic-optical-navigation-tron) [Germany] - Testbed for Robotic Optical Navigation at the DLR Institute of Space Systems in Bremen. A hardware-in-the-loop facility for validating optical navigation sensors including cameras and lidar up to TRL 7. It uses a robotic arm, precision terrain models, and adjustable lighting to simulate lunar landing trajectories and asteroid approach scenarios.
+- [ESA Orbital Robotics Laboratory](https://www.esa.int/Education/ESA_Academy_Experiments_programme/Orbital_Robotics_Laboratory) | Netherlands - Testbed at ESA's ESTEC featuring Europe's largest 2D free-floating platform, a 4.8x9 m flat floor with air-bearing systems that simulate microgravity for validating satellite docking, debris removal, and in-orbit servicing technologies. It is available to university students through the ESA Academy Experiments Programme.
+- [JPL Mars Yard](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii) | USA - Outdoor test facility at JPL designed to emulate the Martian surface. It is used for testing rover mobility, navigation, and instrument deployment on terrain representative of Mars conditions.
+- [LUNA](https://luna-analog-facility.de/en) | Germany - ESA-DLR LUNA analogue facility at the European Astronaut Centre in Cologne. It features a large regolith testbed for testing lunar surface operations, including rover navigation and sample collection.
+- [LunaLab](https://www.uni.lu/snt-en/facilities/lunalab) | Luxembourg - Moon analogue facility at the University of Luxembourg. It features an indoor 11x7 m area filled with 20 t of basalt gravel to emulate the surface of the Moon. LunaLab is equipped with adjustable illumination and a motion capture system to support the development and testing of lunar rovers.
+- [Spaceport Rostock](https://testingfor.space) | Germany - Testing facility at Rostock-Laage Airport developed in collaboration with DLR. It features a test track for lunar and space vehicles and plans for microgravity testing infrastructure, positioning it as a hub for commercial and national space research.
+- [TRON](https://www.dlr.de/en/research-and-transfer/research-infrastructure/testbed-for-robotic-optical-navigation-tron) | Germany - Testbed for Robotic Optical Navigation at the DLR Institute of Space Systems in Bremen. A hardware-in-the-loop facility for validating optical navigation sensors including cameras and lidar up to TRL 7. It uses a robotic arm, precision terrain models, and adjustable lighting to simulate lunar landing trajectories and asteroid approach scenarios.
+- [Zero-G Lab](https://www.uni.lu/snt-en/facilities/zero-g-lab) | Luxembourg - Facility at the University of Luxembourg designed for testing 2D and 3D free-floating robotic systems in microgravity conditions. Its dark room features a 5x3 m flat epoxy floor on which pneumatic platforms use pressurized air to emulate free-floating behaviour in a 2D plane, while wall- and ceiling-mounted articulated robotic arms on linear rails extend the workspace into 3D. The lab is equipped with adjustable illumination and a motion capture system.
 
 #### Runtime Verification
 
@@ -338,44 +302,44 @@ A curated list of resources for **Space Robotics**. Contributions are welcome!
 
 #### Governmental
 
-- [ASI](https://www.asi.it/en) [Italy] - Italian Space Agency
-- [CNES](https://cnes.fr/en) [France] - Centre National d'Études Spatiales
-- [CNSA](https://www.cnsa.gov.cn) [China] - China National Space Administration
-- [CSA](https://www.asc-csa.gc.ca/eng) [Canada] - Canadian Space Agency
-- [DLR](https://www.dlr.de/en/rm) [Germany] - German Aerospace Center, Institute of Robotics and Mechatronics
-- [ESA](https://www.esa.int) [Europe] - European Space Agency
-- [ISRO](https://www.isro.gov.in) [India] - Indian Space Research Organisation
-- [JAXA](https://global.jaxa.jp) [Japan] - Japan Aerospace Exploration Agency
-- [KASA](https://www.kasa.go.kr/eng/index.do) [South Korea] - Korea AeroSpace Administration
-- [NASA](https://www.nasa.gov) [USA] - National Aeronautics and Space Administration
-  - [ARC](https://www.nasa.gov/ames) [USA] - NASA Ames Research Center
-  - [GSFC](https://www.nasa.gov/goddard) [USA] - NASA Goddard Space Flight Center
-  - [JPL](https://www.jpl.nasa.gov) [USA] - NASA Jet Propulsion Laboratory
-  - [JSC](https://www.nasa.gov/johnson) [USA] - NASA Johnson Space Center
-- [UKSA](https://www.gov.uk/government/organisations/uk-space-agency) [United Kingdom] - UK Space Agency
+- [ASI](https://www.asi.it/en) | Italy - Italian Space Agency
+- [CNES](https://cnes.fr/en) | France - Centre National d'Études Spatiales
+- [CNSA](https://www.cnsa.gov.cn) | China - China National Space Administration
+- [CSA](https://www.asc-csa.gc.ca/eng) | Canada - Canadian Space Agency
+- [DLR](https://www.dlr.de/en/rm) | Germany - German Aerospace Center, Institute of Robotics and Mechatronics
+- [ESA](https://www.esa.int) | Europe - European Space Agency
+- [ISRO](https://www.isro.gov.in) | India - Indian Space Research Organisation
+- [JAXA](https://global.jaxa.jp) | Japan - Japan Aerospace Exploration Agency
+- [KASA](https://www.kasa.go.kr/eng/index.do) | South Korea - Korea AeroSpace Administration
+- [NASA](https://www.nasa.gov) | USA - National Aeronautics and Space Administration
+  - [ARC](https://www.nasa.gov/ames) | USA - NASA Ames Research Center
+  - [GSFC](https://www.nasa.gov/goddard) | USA - NASA Goddard Space Flight Center
+  - [JPL](https://www.jpl.nasa.gov) | USA - NASA Jet Propulsion Laboratory
+  - [JSC](https://www.nasa.gov/johnson) | USA - NASA Johnson Space Center
+- [UKSA](https://www.gov.uk/government/organisations/uk-space-agency) | United Kingdom - UK Space Agency
 
 #### Academic
 
-- [AAU Space Robotics](https://spacerobotics.es.aau.dk) [Denmark] - Aalborg University
-- [Space Robotics Group (SRG)](https://www.srg.mech.keio.ac.jp/en) [Japan] - Keio University
-- [Space Robotics Lab (SRL)](https://astro.mech.tohoku.ac.jp/e/index.html) [Japan] - Tohoku University
-- [Space Robotics Research Group (SpaceR)](https://www.spacer.lu) [Luxembourg] - University of Luxembourg
-- [The Laboratory for Autonomous Systems in Exploration and Robotics (LASER)](https://usclaser.github.io) [USA] - University of Southern California
+- [AAU Space Robotics](https://spacerobotics.es.aau.dk) | Denmark - Aalborg University
+- [Space Robotics Group (SRG)](https://www.srg.mech.keio.ac.jp/en) | Japan - Keio University
+- [Space Robotics Lab (SRL)](https://astro.mech.tohoku.ac.jp/e/index.html) | Japan - Tohoku University
+- [Space Robotics Research Group (SpaceR)](https://www.spacer.lu) | Luxembourg - University of Luxembourg
+- [The Laboratory for Autonomous Systems in Exploration and Robotics (LASER)](https://usclaser.github.io) | USA - University of Southern California
 
 #### Corporate
 
-- [Astrobotic](https://www.astrobotic.com) [USA] - Lunar logistics and delivery services
-- [Astroscale](https://astroscale.com) [Japan/UK] - On-orbit servicing and debris removal
-- [ClearSpace](https://clearspace.today) [Switzerland] - Space debris removal and in-orbit servicing
-- [GITAI](https://gitai.tech) [Japan/USA] - Space robotics and labor automation
-- [Honeybee Robotics (Blue Origin)](https://www.blueorigin.com/exploration-systems) [USA] - Spacecraft mechanisms and planetary drilling systems, now a subsidiary of Blue Origin
-- [Intuitive Machines](https://www.intuitivemachines.com) [USA] - Lunar landers and space infrastructure
-- [ispace](https://ispace-inc.com) [Japan] - Lunar exploration and resource development
-- [MDA](https://mda.space) [Canada] - Canadarm, robotics, and satellite systems
-- [Motiv Space Systems](https://motivss.com) [USA] - Robotic arms and actuators for space
-- [Northrop Grumman](https://www.northropgrumman.com/space) [USA] - Satellite servicing and space logistics
-- [Redwire Space](https://redwirespace.com) [USA] - In-space manufacturing and robotics
-- [Starfish Space](https://www.starfishspace.com) [USA] - Satellite servicing and space sustainability
+- [Astrobotic](https://www.astrobotic.com) | USA - Lunar logistics and delivery services
+- [Astroscale](https://astroscale.com) | Japan/UK - On-orbit servicing and debris removal
+- [ClearSpace](https://clearspace.today) | Switzerland - Space debris removal and in-orbit servicing
+- [GITAI](https://gitai.tech) | Japan/USA - Space robotics and labor automation
+- [Honeybee Robotics (Blue Origin)](https://www.blueorigin.com/exploration-systems) | USA - Spacecraft mechanisms and planetary drilling systems, now a subsidiary of Blue Origin
+- [Intuitive Machines](https://www.intuitivemachines.com) | USA - Lunar landers and space infrastructure
+- [ispace](https://ispace-inc.com) | Japan - Lunar exploration and resource development
+- [MDA](https://mda.space) | Canada - Canadarm, robotics, and satellite systems
+- [Motiv Space Systems](https://motivss.com) | USA - Robotic arms and actuators for space
+- [Northrop Grumman](https://www.northropgrumman.com/space) | USA - Satellite servicing and space logistics
+- [Redwire Space](https://redwirespace.com) | USA - In-space manufacturing and robotics
+- [Starfish Space](https://www.starfishspace.com) | USA - Satellite servicing and space sustainability
 
 ### Recurring Events
 
@@ -386,24 +350,11 @@ A curated list of resources for **Space Robotics**. Contributions are welcome!
 - [IAC](https://www.iafastro.org/events/iac) - International Astronautical Congress, the world's largest annual gathering of space professionals. It includes dedicated sessions on space robotics and automation organized by the International Astronautical Federation.
 - [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) - IEEE International Conference on Robotics and Automation. The flagship IEEE robotics conference regularly features workshops and sessions on space robotics, orbital manipulation, and planetary exploration.
 - [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros) - IEEE/RSJ International Conference on Intelligent Robots and Systems. One of the largest robotics conferences, it regularly includes workshops and papers on space robotics applications.
-- [iSpaRo](https://isparo.space) - Annual peer-reviewed conference aiming to provide a framework for academia and industry to engage in discussions and share their insights on emerging topics in space robotics.
-- [SPAICE](https://spaice.esa.int) - ESA workshop on Spacecraft AI and Machine Learning, focusing on the application of AI techniques to space missions. It covers onboard autonomy, computer vision, and machine learning for robotic spacecraft.
-
-<!-- END GENERATED CONTENT -->
-<!-- Note: Do not edit the content above this line. It is generated from the source files in the src directory -->
+- [iSpaRo](https://isparo.space) - International Conference on Space Robotics. Annual peer-reviewed conference aiming to provide a framework for academia and industry to engage in discussions and share their insights on emerging topics in space robotics.
+- [SPAICE](https://spaice.esa.int) - ESA academic conference on AI in and for space. It focuses on the application of AI techniques to space missions, covering onboard autonomy, computer vision, and machine learning for robotic spacecraft.
 
 ---
 
-## Local HTML Preview
+## Contributing
 
-We use [mdBook](https://rust-lang.github.io/mdBook) to generate a static site from Markdown files found in the [src](src) directory. To build and preview the site locally, you can [install mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) and run the following command:
-
-```bash
-mdbook serve --open
-```
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE).
-
-<a href="https://creativecommons.org/publicdomain/zero/1.0"><img src="https://licensebuttons.net/l/zero/1.0/88x31.png" width="88" height="31"></a>
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.

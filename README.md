@@ -85,12 +85,10 @@
 - [Robot Operating System (ROS)](https://www.ros.org) - Open source middleware framework widely used in space robotics for development and ground testing. NASA's Astrobee free-flyers run on ROS, and platforms like ExoMy and the JPL Open Source Rover use ROS for control and navigation.
   - [Space ROS](https://space.ros.org) - Fork of ROS 2 that aims to align with the safety and reliability requirements of space missions.
 
-#### Flight Software
+#### Flight & Ground Software
 
 - [core Flight System (cFS)](https://cfs.gsfc.nasa.gov) - NASA's platform-independent and mission-independent flight software framework. It provides a reusable software architecture for spacecraft with a layered design that separates the operating system, platform, and application layers.
 - [F´ (F-Prime)](https://fprime.jpl.nasa.gov) - Component-driven framework for spaceflight applications and embedded systems with limited resources. It has been successfully deployed on several space missions, including Mars Helicopter Ingenuity.
-
-#### Ground Systems
 
 - [Yamcs](https://yamcs.org) - Open source mission control framework for command and control of spacecraft, satellites, payloads, and ground equipment. It features built-in support for CCSDS, CFDP, and XTCE standards, and can serve as a backend for OpenMCT.
 
@@ -113,16 +111,12 @@
 - [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) (*Disclaimer: Author's project*) - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
 - [Space ROS Demos](https://github.com/space-ros/demos) - Collection of Space ROS simulation examples featuring Canadarm2, Curiosity rover, and lunar terrain environments. Built on Gazebo, the demos are containerized with Docker for easy deployment and serve as reference implementations for space robotics development with Space ROS.
 
-#### Scene Generation
-
 - [PANGU](https://pangu.software) - Planet and Asteroid Natural Scene Generation Utility developed by the University of Dundee for ESA. It generates synthetic images of planetary surfaces for testing and validating vision-based navigation algorithms for landing and surface exploration.
 
 #### Spacecraft Dynamics
 
 - [42](https://github.com/ericstoneking/42) - NASA Goddard's general-purpose spacecraft simulation environment. It provides high-fidelity attitude and orbit dynamics, sensor and actuator models, and visualization for multi-body spacecraft systems.
 - [Basilisk](https://avslab.github.io/basilisk) - Astrodynamics simulation framework developed at the University of Colorado Boulder. It supports modular spacecraft simulation with customizable flight software, dynamics, and environment models for autonomous mission scenarios.
-
-#### Simulation Frameworks
 
 - [Trick](https://github.com/nasa/trick) - NASA's simulation development framework that provides common simulation capabilities for rapid prototyping of space vehicle simulations. It handles infrastructure such as job scheduling, data recording, and checkpoint/restart, enabling engineers to focus on domain-specific models.
 
@@ -155,11 +149,7 @@
 
 ### Perception
 
-#### Image Processing
-
 - [VICAR](https://github.com/NASA-AMMOS/VICAR) - Video Image Communication And Retrieval, JPL's open source image processing system developed since 1966. It includes VISOR for operational rover image processing and has been used on all Mars surface missions including Spirit, Opportunity, Curiosity, Perseverance, Ingenuity, InSight, and Phoenix.
-
-#### Terrain Analysis
 
 - [Ames Stereo Pipeline (ASP)](https://github.com/NeoGeographyToolkit/StereoPipeline) - NASA's open source suite for generating digital terrain models, orthoimages, and 3D point clouds from satellite, rover, and aerial stereo imagery. It supports bundle adjustment, shape-from-shading, and multiple planetary sensor formats.
 
@@ -189,17 +179,11 @@
 
 ### Human-Robot Interaction
 
-#### Teleoperation
-
 - [METERON](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/METERON_Project) - Multi-purpose End-To-End Robotic Operation Network, an ESA project for teleoperation of robots on Earth from the ISS. It validates time-delayed telerobotic control techniques across the space-to-ground communication link.
-
-#### User Interfaces
 
 - [OpenMCT](https://nasa.github.io/openmct) - Open source mission control framework developed by NASA Ames. It provides a web-based platform for visualizing telemetry data and commanding spacecraft and robotic systems.
 
 ### Robot Learning
-
-#### Simulation-Based Learning
 
 - [Space Robotics Bench (SRB)](#space-robotics) (*Disclaimer: Author's project*) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
 
@@ -228,7 +212,6 @@
 - [Mars Science Laboratory](https://mars.nasa.gov/msl) - NASA mission that landed the Curiosity rover in Gale Crater in 2012. Curiosity carries a suite of instruments including a laser spectrometer and a drill, and has been characterizing Mars' climate, geology, and habitability potential.
 - [Tianwen-1](https://en.wikipedia.org/wiki/Tianwen-1) - China's first Mars mission, which landed the Zhurong rover in Utopia Planitia in 2021. The solar-powered rover conducted geological surveys and subsurface radar exploration of the Martian surface.
 
-#### Saturn
 
 - [Dragonfly](https://dragonfly.jhuapl.edu) - NASA rotorcraft lander planned for Saturn's moon Titan. The dual-quadcopter will fly between multiple landing sites to study Titan's prebiotic chemistry and habitability, leveraging Titan's dense atmosphere and low gravity.
 
@@ -355,6 +338,6 @@
 
 ---
 
-## Contributing
+**Contributing**
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.

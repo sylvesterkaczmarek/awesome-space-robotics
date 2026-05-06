@@ -110,7 +110,7 @@
 #### Space Robotics
 
 - [DARTS](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/the-darts-simulation-laboratory) - Dynamics Algorithms for Real-Time Simulation developed by JPL. It provides high-fidelity multibody dynamics simulation for space robotic systems, including articulated mechanisms, contact dynamics, and flexible structures.
-- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
+- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) (*Disclaimer: Author's project*) - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
 - [Space ROS Demos](https://github.com/space-ros/demos) - Collection of Space ROS simulation examples featuring Canadarm2, Curiosity rover, and lunar terrain environments. Built on Gazebo, the demos are containerized with Docker for easy deployment and serve as reference implementations for space robotics development with Space ROS.
 
 #### Scene Generation
@@ -201,7 +201,7 @@
 
 #### Simulation-Based Learning
 
-- [Space Robotics Bench (SRB)](#space-robotics) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
+- [Space Robotics Bench (SRB)](#space-robotics) (*Disclaimer: Author's project*) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
 
 ## Missions & Applications
 

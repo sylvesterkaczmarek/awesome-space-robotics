@@ -8,8 +8,6 @@
 <a href="#contents"> <img alt="MD" src="theme/icon_md.svg" width="96" height="96"></a>
 </p>
 
----
-
 ## Contents
 
 - [Systems](#systems)
@@ -335,8 +333,6 @@
 - [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros) - IEEE/RSJ International Conference on Intelligent Robots and Systems.
 - [iSpaRo](https://isparo.space) - International Conference on Space Robotics.
 - [SPAICE](https://spaice.esa.int) - ESA academic conference on AI in and for space.
-
----
 
 **Contributing**
 

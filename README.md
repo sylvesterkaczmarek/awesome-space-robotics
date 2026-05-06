@@ -33,21 +33,21 @@
 ### Surface Vehicles
 
 - [CADRE](https://www.jpl.nasa.gov/missions/cadre) - Cooperative Autonomous Distributed Robotic Exploration, a NASA JPL project deploying a team of shoebox-sized rovers to the Moon.
-- [Curiosity](#mars) - NASA's car-sized Mars rover powered by a radioisotope thermoelectric generator.
+- [Curiosity](https://science.nasa.gov/mission/msl-curiosity/) - NASA's car-sized Mars rover powered by a radioisotope thermoelectric generator.
 - [ExoMy](https://esa-prl.github.io/ExoMy) - Open source build-it-yourself rover developed by ESA.
 - [JPL Open Source Rover](https://jplopensourcerover.com) - Open source build-it-yourself rover developed by JPL.
 - [LEMUR](https://www.jpl.nasa.gov/robotics-at-jpl/freeclimber-lemur-3) - Limbed Excursion Mechanical Utility Robot developed by JPL.
-- [Mars Exploration Rovers (Spirit & Opportunity)](#mars) - NASA's twin solar-powered rovers with rocker-bogie suspension and a five-degree-of-freedom instrument arm.
-- [MASCOT](#small-bodies) - Mobile Asteroid Surface Scout developed by DLR and CNES.
-- [Perseverance](#mars) - NASA's Mars rover that landed in Jezero Crater in 2021.
+- [Mars Exploration Rovers (Spirit & Opportunity)](https://mars.nasa.gov/mer/) - NASA's twin solar-powered rovers with rocker-bogie suspension and a five-degree-of-freedom instrument arm.
+- [MASCOT](https://en.wikipedia.org/wiki/Mobile_Asteroid_Surface_Scout) - Mobile Asteroid Surface Scout developed by DLR and CNES.
+- [Perseverance](https://science.nasa.gov/mission/mars-2020-perseverance/) - NASA's Mars rover that landed in Jezero Crater in 2021.
 - [RASSOR](https://technology.nasa.gov/patent/KSC-TOPS-7) - Regolith Advanced Surface Systems Operations Robot developed by NASA Kennedy Space Center.
 - [RoboSimian](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/robosimian) - Four-limbed robot developed by JPL with seven degrees of freedom per limb.
-- [Sojourner](#mars) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission.
+- [Sojourner](https://en.wikipedia.org/wiki/Sojourner_(rover)) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission.
 
 ### Aerial Vehicles
 
- - [Dragonfly](#space-exploration) - NASA dual-quadcopter rotorcraft designed to fly on Saturn's moon Titan.
- - [Ingenuity](#mars) - NASA's 1.8 kg coaxial-rotor helicopter that achieved the first powered, controlled flight on another planet.
+- [Dragonfly](https://science.nasa.gov/mission/dragonfly/) - NASA dual-quadcopter rotorcraft designed to fly on Saturn's moon Titan.
+- [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)) - NASA's 1.8 kg coaxial-rotor helicopter that achieved the first powered, controlled flight on another planet.
 
 ### Free-Flying Robots
 
@@ -174,7 +174,7 @@
 
 ## Robot Learning
 
-- [Space Robotics Bench (SRB)](#space-robotics) (*Disclaimer: Author's project*) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
+- [Space Robotics Bench (SRB)](https://github.com/AndrejOrsula/space_robotics_bench) (*Disclaimer: Author's project*) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
 
 ## Space Exploration
 
@@ -216,7 +216,7 @@
 - [ADRAS-J](https://astroscale.com/missions/adras-j) - Active Debris Removal by Astroscale-Japan, a JAXA-contracted mission launched in 2024.
 - [ClearSpace-1](https://clearspace.today/missions/clearspace-1) - ESA-commissioned mission to remove a piece of space debris from orbit, planned as the first active debris removal mission.
 - [Mission Extension Vehicle (MEV)](https://www.northropgrumman.com/space/space-logistics-services) - Northrop Grumman's satellite life-extension spacecraft.
-- [Mission Robotic Vehicle (MRV)](#on-orbit-servicing) - Northrop Grumman's next-generation servicing spacecraft designed to perform hands-on satellite maintenance in GEO.
+- [Mission Robotic Vehicle (MRV)](https://en.wikipedia.org/wiki/Mission_Extension_Vehicle#Mission_Robotic_Vehicle) - Northrop Grumman's next-generation servicing spacecraft designed to perform hands-on satellite maintenance in GEO.
 - [RSGS](https://www.darpa.mil/program/robotic-servicing-of-geosynchronous-satellites) - Robotic Servicing of Geosynchronous Satellites, a DARPA program to develop a robotic servicing vehicle for GEO satellites.
 
 ## Education
@@ -231,7 +231,7 @@
 ### Web
 
 - [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system) - NASA's real-time 3D visualization of the solar system.
-- [JPL Open Source Rover (Homepage)](#surface-vehicles) - Simulated Mars rover that can be controlled through a simple teleoperation interface.
+- [JPL Open Source Rover (Homepage)](https://github.com/nasa-jpl/open-source-rover) - Simulated Mars rover that can be controlled through a simple teleoperation interface.
 - [KeepTrack](https://app.keeptrack.space) - Open source web application for visualizing satellites and space debris in real time.
 - [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Interactive 3D visualization of tracked objects in low Earth orbit.
 - [Mars Trek](https://trek.nasa.gov/mars) - NASA's web-based portal for exploring the surface of Mars using data from multiple missions.
@@ -274,7 +274,7 @@
 - [DLR](https://www.dlr.de/en/rm) - Germany: German Aerospace Center, Institute of Robotics and Mechatronics.
 - [ESA](https://www.esa.int) - Europe: European Space Agency.
 - [ISRO](https://www.isro.gov.in) - India: Indian Space Research Organisation.
-- [JAXA](global.jaxa.jp) - Japan: Japan Aerospace Exploration Agency.
+- [JAXA](https://global.jaxa.jp) - Japan: Japan Aerospace Exploration Agency.
 - [KASA](https://www.kasa.go.kr/eng/index.do) - South Korea: Korea AeroSpace Administration.
 - [NASA](https://www.nasa.gov) - USA: National Aeronautics and Space Administration.
 - [NASA ARC](https://www.nasa.gov/ames) - USA: NASA Ames Research Center.
@@ -318,6 +318,6 @@
 - [iSpaRo](https://isparo.space) - International Conference on Space Robotics.
 - [SPAICE](https://spaice.esa.int) - ESA academic conference on AI in and for space.
 
-**Contributing**
+## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.

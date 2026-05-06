@@ -42,21 +42,21 @@
 #### Surface Vehicles
 
 - [CADRE](https://www.jpl.nasa.gov/missions/cadre) - Cooperative Autonomous Distributed Robotic Exploration, a NASA JPL project deploying a team of shoebox-sized rovers to the Moon. They will autonomously coordinate to map the lunar surface using multi-robot exploration strategies without human intervention.
-- [Curiosity](https://mars.nasa.gov/msl) - NASA's car-sized Mars rover powered by a radioisotope thermoelectric generator. It uses a rocker-bogie suspension, a 2.1-metre robotic arm with a drill and spectrometers, and autonomous navigation to traverse Gale Crater since 2012.
+- [Curiosity](#mars) - NASA's car-sized Mars rover powered by a radioisotope thermoelectric generator. It uses a rocker-bogie suspension, a 2.1-metre robotic arm with a drill and spectrometers, and autonomous navigation to traverse Gale Crater since 2012.
 - [ExoMy](https://esa-prl.github.io/ExoMy) - Open source build-it-yourself rover developed by ESA. It is inspired by the ExoMars rover and designed to be a low-cost platform for educational purposes. ExoMy features Ackermann steering and can be controlled via ROS using an onboard Raspberry Pi.
 - [JPL Open Source Rover](https://jplopensourcerover.com) - Open source build-it-yourself rover developed by JPL. It is based on the deployed Mars rovers and designed to be an affordable platform for education and research. The rover can be controlled via ROS using an onboard Raspberry Pi.
 - [LEMUR](https://www.jpl.nasa.gov/robotics-at-jpl/freeclimber-lemur-3) - Limbed Excursion Mechanical Utility Robot developed by JPL. A four-limbed climbing robot with hundreds of micro-spine grippers that can scale rock walls and inspect spacecraft exteriors in microgravity.
-- [Mars Exploration Rovers (Spirit & Opportunity)](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity) - NASA's twin solar-powered rovers with rocker-bogie suspension and a five-degree-of-freedom instrument arm. Designed for 90 sols, Spirit operated until 2010 and Opportunity until 2018, validating long-duration autonomous rover operations on Mars.
-- [MASCOT](https://www.dlr.de/en/rm/research/robotic-systems/components/mascot) - Mobile Asteroid Surface Scout developed by DLR and CNES. The shoebox-sized lander was deployed from JAXA's Hayabusa2 spacecraft to the asteroid Ryugu in 2018, where it hopped across the surface to perform in situ measurements.
-- [Perseverance](https://mars.nasa.gov/mars2020) - NASA's Mars rover that landed in Jezero Crater in 2021. It carries seven science instruments, a robotic arm with a drill for coring rock samples, and deployed the Ingenuity helicopter for the first powered flight on another planet.
+- [Mars Exploration Rovers (Spirit & Opportunity)](#mars) - NASA's twin solar-powered rovers with rocker-bogie suspension and a five-degree-of-freedom instrument arm. Designed for 90 sols, Spirit operated until 2010 and Opportunity until 2018, validating long-duration autonomous rover operations on Mars.
+- [MASCOT](#small-bodies) - Mobile Asteroid Surface Scout developed by DLR and CNES. The shoebox-sized lander was deployed from JAXA's Hayabusa2 spacecraft to the asteroid Ryugu in 2018, where it hopped across the surface to perform in situ measurements.
+- [Perseverance](#mars) - NASA's Mars rover that landed in Jezero Crater in 2021. It carries seven science instruments, a robotic arm with a drill for coring rock samples, and deployed the Ingenuity helicopter for the first powered flight on another planet.
 - [RASSOR](https://technology.nasa.gov/patent/KSC-TOPS-7) - Regolith Advanced Surface Systems Operations Robot developed by NASA Kennedy Space Center. A compact excavation robot designed to mine regolith on the Moon and Mars using counter-rotating bucket drums.
 - [RoboSimian](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/robosimian) - Four-limbed robot developed by JPL with seven degrees of freedom per limb. Originally built for the DARPA Robotics Challenge, it now serves as a wheel-on-limb rover research platform for planetary exploration, with mobility tested on ocean-world analogue terrain.
-- [Sojourner](https://science.nasa.gov/mission/mars-pathfinder) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
+- [Sojourner](#mars) - NASA's first Mars rover, a 10.6 kg six-wheeled microrobot that landed in 1997 as part of the Mars Pathfinder mission. It demonstrated semi-autonomous navigation with hazard avoidance and conducted soil and rock analyses using an alpha proton X-ray spectrometer over 83 sols.
 
 #### Aerial Vehicles
 
-- [Dragonfly](https://dragonfly.jhuapl.edu) - NASA dual-quadcopter rotorcraft designed to fly on Saturn's moon Titan. Leveraging Titan's dense atmosphere and low gravity, the 450 kg lander will hop between multiple sites to study prebiotic chemistry using a mass spectrometer, gamma-ray spectrometer, and drill.
-- [Ingenuity](https://www.jpl.nasa.gov/missions/ingenuity) - NASA's 1.8 kg coaxial-rotor helicopter that achieved the first powered, controlled flight on another planet. Solar-powered with autonomous flight capability, it completed 72 flights over nearly three years on Mars, serving as a technology demonstrator and aerial scout for the Perseverance rover.
+- [Dragonfly](#space-exploration) - NASA dual-quadcopter rotorcraft designed to fly on Saturn's moon Titan. Leveraging Titan's dense atmosphere and low gravity, the 450 kg lander will hop between multiple sites to study prebiotic chemistry using a mass spectrometer, gamma-ray spectrometer, and drill.
+- [Ingenuity](#mars) - NASA's 1.8 kg coaxial-rotor helicopter that achieved the first powered, controlled flight on another planet. Solar-powered with autonomous flight capability, it completed 72 flights over nearly three years on Mars, serving as a technology demonstrator and aerial scout for the Perseverance rover.
 
 #### Free-Flying Robots
 
@@ -201,7 +201,7 @@
 
 #### Simulation-Based Learning
 
-- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
+- [Space Robotics Bench (SRB)](#space-robotics) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
 
 ## Missions & Applications
 
@@ -247,7 +247,7 @@
 - [ADRAS-J](https://astroscale.com/missions/adras-j) - Active Debris Removal by Astroscale-Japan, a JAXA-contracted mission launched in 2024. It demonstrated rendezvous and proximity operations with a spent rocket upper stage, capturing close-range imagery for planning future debris removal.
 - [ClearSpace-1](https://clearspace.today/missions/clearspace-1) - ESA-commissioned mission to remove a piece of space debris from orbit, planned as the first active debris removal mission. A capture spacecraft will use robotic arms to grasp a derelict Vespa upper stage and deorbit it.
 - [Mission Extension Vehicle (MEV)](https://www.northropgrumman.com/space/space-logistics-services) - Northrop Grumman's satellite life-extension spacecraft. MEV-1 docked with Intelsat 901 in 2020, providing propulsion and attitude control to extend the aging satellite's operational lifetime.
-- [Mission Robotic Vehicle (MRV)](https://www.northropgrumman.com/space/space-logistics-services) - Northrop Grumman's next-generation servicing spacecraft designed to perform hands-on satellite maintenance in GEO. Unlike MEV's whole-vehicle docking approach, MRV uses robotic arms to inspect, refuel, relocate, and repair client satellites.
+- [Mission Robotic Vehicle (MRV)](#on-orbit-servicing) - Northrop Grumman's next-generation servicing spacecraft designed to perform hands-on satellite maintenance in GEO. Unlike MEV's whole-vehicle docking approach, MRV uses robotic arms to inspect, refuel, relocate, and repair client satellites.
 - [RSGS](https://www.darpa.mil/program/robotic-servicing-of-geosynchronous-satellites) - Robotic Servicing of Geosynchronous Satellites, a DARPA program to develop a robotic servicing vehicle for GEO satellites. It utilizes dexterous robotic arms to inspect, reposition, and repair satellites.
 
 ## Resources
@@ -264,7 +264,7 @@
 #### Web
 
 - [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system) - NASA's real-time 3D visualization of the solar system. It allows interactive exploration of spacecraft trajectories, planetary positions, and mission events using real mission data.
-- [JPL Open Source Rover (Homepage)](https://jplopensourcerover.com) - Simulated Mars rover that can be controlled through a simple teleoperation interface.
+- [JPL Open Source Rover (Homepage)](#surface-vehicles) - Simulated Mars rover that can be controlled through a simple teleoperation interface.
 - [KeepTrack](https://app.keeptrack.space) - Open source web application for visualizing satellites and space debris in real time. It categorizes objects by type and provides detailed orbital information, useful for understanding the space environment around robotic missions.
 - [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Interactive 3D visualization of tracked objects in low Earth orbit. It provides real-time situational awareness of the space debris environment and conjunction events for orbital operations planning.
 - [Mars Trek](https://trek.nasa.gov/mars) - NASA's web-based portal for exploring the surface of Mars using data from multiple missions. It provides interactive maps, elevation profiles, and 3D terrain visualization.

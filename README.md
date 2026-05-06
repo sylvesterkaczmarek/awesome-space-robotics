@@ -83,7 +83,7 @@
 #### Robotics Middleware
 
 - [Robot Operating System (ROS)](https://www.ros.org) - Open source middleware framework widely used in space robotics for development and ground testing. NASA's Astrobee free-flyers run on ROS, and platforms like ExoMy and the JPL Open Source Rover use ROS for control and navigation.
-  - [Space ROS](https://space.ros.org) - Fork of ROS 2 that aims to align with the safety and reliability requirements of space missions.
+- [Space ROS](https://space.ros.org) - Fork of ROS 2 that aims to align with the safety and reliability requirements of space missions.
 
 #### Flight & Ground Software
 
@@ -143,7 +143,7 @@
 #### Runtime Verification
 
 - [Copilot](https://github.com/Copilot-Language/copilot) - NASA's runtime verification framework that generates constant-time, constant-memory C99 monitors from high-level Haskell specifications. It integrates with cFS, F Prime, and ROS 2 for monitoring safety properties of hard real-time aerospace systems.
-  - [OGMA](https://github.com/nasa/ogma) - NASA tool for generating safe runtime monitors for flight and robotic applications. It extends Copilot to produce hard real-time C99 verification code, supporting runtime monitoring for cFS, ROS 2, and F' spacecraft software.
+- [OGMA](https://github.com/nasa/ogma) - NASA tool for generating safe runtime monitors for flight and robotic applications. It extends Copilot to produce hard real-time C99 verification code, supporting runtime monitoring for cFS, ROS 2, and F' spacecraft software.
 
 ## Algorithms
 
@@ -295,10 +295,10 @@
 - [JAXA](global.jaxa.jp) - Japan: Japan Aerospace Exploration Agency.
 - [KASA](https://www.kasa.go.kr/eng/index.do) - South Korea: Korea AeroSpace Administration.
 - [NASA](https://www.nasa.gov) - USA: National Aeronautics and Space Administration.
-  - [ARC](https://www.nasa.gov/ames) - USA: NASA Ames Research Center.
-  - [GSFC](https://www.nasa.gov/goddard) - USA: NASA Goddard Space Flight Center.
-  - [JPL](https://www.jpl.nasa.gov) - USA: NASA Jet Propulsion Laboratory.
-  - [JSC](https://www.nasa.gov/johnson) - USA: NASA Johnson Space Center.
+- [NASA ARC](https://www.nasa.gov/ames) - USA: NASA Ames Research Center.
+- [NASA GSFC](https://www.nasa.gov/goddard) - USA: NASA Goddard Space Flight Center.
+- [NASA JPL](https://www.jpl.nasa.gov) - USA: NASA Jet Propulsion Laboratory.
+- [NASA JSC](https://www.nasa.gov/johnson) - USA: NASA Johnson Space Center.
 - [UKSA](https://www.gov.uk/government/organisations/uk-space-agency) - United Kingdom: UK Space Agency.
 
 #### Academic

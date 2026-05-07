@@ -2,12 +2,6 @@
 
 > Robotic systems designed for space environments.
 
-<p>
-<a href="https://AndrejOrsula.github.io/awesome-space-robotics"> <img alt="HTML" src="theme/icon_html.svg" width="96" height="96"></a>
-<a href="https://AndrejOrsula.github.io/awesome-space-robotics/awesome-space-robotics.pdf"> <img alt="PDF" src="theme/icon_pdf.svg" width="96" height="96"></a>
-<a href="#contents"> <img alt="MD" src="theme/icon_md.svg" width="96" height="96"></a>
-</p>
-
 ## Contents
 
 - [Hardware Platforms](#hardware-platforms)
@@ -100,7 +94,7 @@
 
 - [DARTS](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/the-darts-simulation-laboratory) - Dynamics Algorithms for Real-Time Simulation developed by JPL.
 - [PANGU](https://pangu.software) - Planet and Asteroid Natural Scene Generation Utility developed by the University of Dundee for ESA.
-- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) *(Disclosure: Created by the author of this list)* - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
+- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) *(Disclosure: Created by the author of this list)* - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim.
 - [Space ROS Demos](https://github.com/space-ros/demos) - Collection of Space ROS simulation examples featuring Canadarm2, Curiosity rover, and lunar terrain environments.
 
 ### Spacecraft Dynamics
@@ -172,7 +166,7 @@
 
 ## Robot Learning
 
-- [Space Robotics Bench (SRB)](https://github.com/AndrejOrsula/space_robotics_bench) *(Disclosure: Created by the author of this list)* - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
+- [Space Robotics Bench (SRB)](https://github.com/AndrejOrsula/space_robotics_bench) *(Disclosure: Created by the author of this list)* - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab.
 
 ## Space Exploration
 

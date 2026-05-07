@@ -312,6 +312,4 @@
 - [iSpaRo](https://isparo.space) - International Conference on Space Robotics.
 - [SPAICE](https://spaice.esa.int) - ESA academic conference on AI in and for space.
 
-**Contributing**
-
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.

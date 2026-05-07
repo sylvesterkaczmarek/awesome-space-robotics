@@ -99,7 +99,7 @@
 ### Space Robotics
 
 - [DARTS](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/the-darts-simulation-laboratory) - Dynamics Algorithms for Real-Time Simulation developed by JPL.
-- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) (*Disclaimer: Author's project*) - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
+- [Space Robotics Bench (SRB)](https://andrejorsula.github.io/space_robotics_bench) *(Disclosure: Created by the author of this list)* - Collection of environments and tasks for space robotics research built on NVIDIA Isaac Sim. It provides highly parallelized simulation with procedural environment generation and extensive domain randomization for developing and validating autonomous space systems.
 - [Space ROS Demos](https://github.com/space-ros/demos) - Collection of Space ROS simulation examples featuring Canadarm2, Curiosity rover, and lunar terrain environments.
 
 - [PANGU](https://pangu.software) - Planet and Asteroid Natural Scene Generation Utility developed by the University of Dundee for ESA.
@@ -174,7 +174,7 @@
 
 ## Robot Learning
 
-- [Space Robotics Bench (SRB)](https://github.com/AndrejOrsula/space_robotics_bench) (*Disclaimer: Author's project*) - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
+- [Space Robotics Bench (SRB)](https://github.com/AndrejOrsula/space_robotics_bench) *(Disclosure: Created by the author of this list)* - Suite of GPU-accelerated environments for space robotics reinforcement learning built on NVIDIA Isaac Lab. It provides parallelized training scenarios with procedural generation and domain randomization for learning autonomous orbital and planetary surface tasks.
 
 ## Space Exploration
 

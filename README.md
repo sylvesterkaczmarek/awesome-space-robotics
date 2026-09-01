@@ -106,6 +106,10 @@
 
 ## Verification & Validation
 
+### Assurance Resources
+
+- [Awesome Assured Autonomy](https://github.com/sylvesterkaczmarek/awesome-assured-autonomy) - Curated research, tools, benchmarks, standards, and open-source systems for assuring autonomous and learning-enabled systems.
+
 ### Terrestrial Analogue Sites
 
 - [Atacama Desert](https://en.wikipedia.org/wiki/Atacama_Desert) - Chile: One of the driest places on Earth, used as a Mars analogue for testing rover autonomy and astrobiology experiments.
